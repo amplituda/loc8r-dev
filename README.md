@@ -8,13 +8,13 @@ local: localhost:3000
 
 demo: https://infinite-atoll-96189.herokuapp.com/
 
-todo/
-/app
- *add admin area 
-	- add the ability to add new location
+todo/ <br>
+/app <br>
+ * add admin area <br>
+   - add the ability to add new location <br>
 
-/deploy
- - add cd via travis
+/deploy <br>
+ - add cd via travis <br>
 
-/dev 
+/dev <br>
 - add some tooling
