@@ -9,12 +9,12 @@ local: localhost:3000
 demo: https://infinite-atoll-96189.herokuapp.com/
 
 todo/ <br>
-/app <br>
+/app 
  * add admin area <br>
    - add the ability to add new location <br>
 
-/deploy <br>
+/deploy 
  - add cd via travis <br>
 
-/dev <br>
+/dev 
 - add some tooling
